@@ -60,6 +60,7 @@ This dashboard enables businesses to identify top-performing products, profitabl
 ### 6. Screenshots / Demo
 
 Add dashboard screenshots here to showcase the project visuals.
+
 **Link:**  https://github.com/TapasyaJadhav2003/Techno-_Sales_Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
 **Example:**
