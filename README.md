@@ -1,3 +1,10 @@
+
+
+<img width="925" height="511" alt="image" src="https://github.com/user-attachments/assets/5d256237-a01c-4045-8efb-9e6191610a96" />
+
+
+
+
 # Techno Sales Dashboard
 
 ## Recommended Structure and Order
